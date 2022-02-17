@@ -1,2 +1,2 @@
 # DataAnalystProject
-Projects for Data Analyst Positions
+My personal repository for various analytics projects.
